@@ -7,10 +7,6 @@ Welcome to my GitHub! 🚀 I'm passionate about **biology, data science, and AI*
 - ⚡ Interested in **AI, Data Science, and its intesections with biology**
 - 💻 Currently working on **machine learning projects**
 
-## 🔧 Tech Stack
-- **Languages**: Python & Bash
-- **Tools & Frameworks**: TensorFlow, PyTorch, OCRs and ViTs
-- **Other**: Git, Linux, Jupyter, VS Code
 
 ## 📫 Let's Connect!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-silva-perez-983b0a312/)  
