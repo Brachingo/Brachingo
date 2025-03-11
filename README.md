@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Lucas!
 
-<!--
-**Brachingo/Brachingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! 🚀 I'm passionate about **biology, data science, and AI**. I love working on projects that involve **machine learning, biologic problems, and software development**.
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🎓 **Student of Bioinformatics** | Always learning new things!
+- ⚡ Interested in **AI, Data Science, and its intesections with biology**
+- 💻 Currently working on **machine learning projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages**: Python & Bash
+- **Tools & Frameworks**: TensorFlow, PyTorch, OCRs and ViTs
+- **Other**: Git, Linux, Jupyter, VS Code
+
+## 📫 Let's Connect!
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-silva-perez-983b0a312/)  
+- 📫 [Email](lucas.silva.perez@alum.esci.upf.edu)
+Thanks for stopping by! 😊🚀
