@@ -10,6 +10,6 @@ Welcome to my GitHub! 🚀 I'm passionate about **biology, data science, and AI*
 
 ## 📫 Let's Connect!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-silva-perez-983b0a312/)  
-- 📫 [Email](lucassperez04@gmail.com)
+- 📫 [Email](mailto:lucassperez04@gmail.com)
  
 Thanks for stopping by! 😊🚀
